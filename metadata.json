@@ -1,0 +1,8 @@
+{
+  "name": " Engineering Design & Supervision Assistant by Menx ",
+  "description": "An AI-powered assistant providing expert consultation and technical assistance for engineering design and supervision, emphasizing safety, standards, and professional documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
